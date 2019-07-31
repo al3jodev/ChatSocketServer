@@ -1,0 +1,7 @@
+{
+  "name": "ChatSocketServer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
